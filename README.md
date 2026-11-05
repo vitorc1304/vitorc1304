@@ -63,16 +63,17 @@ Currently studying **Information Systems at Mackenzie University**, while expand
 
 </div>
 
-### `> fun_facts.txt`
 
-```txt
-[+] Technology enthusiast
-[+] Gamer in my free time
-[+] Music is always running in the background
-[+] Curious about pretty much everything
+### `> commit_soundtrack --play`
 
-[!] Warning: May spend hours fixing a bug
-    caused by a missing semicolon.
+*My contributions, translated into music. Every active day adds a note.*
+
+[![Commit Soundtrack](assets/commit-soundtrack.svg)](assets/commit-soundtrack.mid)
+
+[Download my MIDI soundtrack](assets/commit-soundtrack.mid)
+
+<sub>Generated from my last 64 days of GitHub activity · Updated daily with GitHub Actions</sub>
+
 ```
 
 ---
@@ -81,6 +82,6 @@ Currently studying **Information Systems at Mackenzie University**, while expand
 
 *"Stay curious. Keep building."*
 
-`System.out.println("See you around!");`
+`System.out.println("Cya");`
 
 </div>
