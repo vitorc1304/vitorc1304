@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Vitor! 👾
+# Vitor Carneiro Araújo
 
 ### `Developer in progress...`
 
