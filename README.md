@@ -77,7 +77,7 @@ Currently studying **Information Systems at Mackenzie University**, while expand
 
 <div align="center">
 
-*"Stay curious. Keep building."*
+*"I pray for stronger legs, not easier roads."*
 
 `System.out.println("Cya");`
 
