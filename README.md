@@ -22,24 +22,17 @@
 name: Vitor Carneiro Araújo
 location: São Paulo, Brazil
 education: Information Systems @ Mackenzie
-interests:
-  - Artificial Intelligence
-  - Cybersecurity
-  - Software Development
-  - Learning how things work
-current_status: "Building skills and breaking things (responsibly)"
+focus: [Artificial Intelligence, Cybersecurity, Software Development]
+currently: Learning by building, experimenting, and asking questions
 ```
 
-I'm a technology enthusiast who enjoys exploring new ideas, understanding how systems work, and turning curiosity into code.
-
-Currently studying **Information Systems at Mackenzie University**, while expanding my knowledge through hands-on projects and continuous learning.
+I'm studying Information Systems at Mackenzie and exploring the parts of technology that spark my curiosity most: how software is built, how systems connect, and how to make them more secure.
 
 ### `> current_quests`
 
-- 🤖 Exploring Artificial Intelligence and its possibilities
-- 🛡️ Learning more about Cybersecurity and networks
-- 💻 Improving my programming and problem-solving skills
-- 🚀 Building projects and experimenting with new technologies
+- Getting more hands-on with programming and networks
+- Exploring practical applications of AI and cybersecurity
+- Working on a college project and learning along the way
 
 ### `> tech_stack --learning`
 
