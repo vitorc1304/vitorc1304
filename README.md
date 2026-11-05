@@ -64,15 +64,14 @@ Currently studying **Information Systems at Mackenzie University**, while expand
 </div>
 
 
-### `> commit_soundtrack --play`
 
-*My contributions, translated into music. Every active day adds a note.*
+### `> space_shooter --start`
 
-[![Commit Soundtrack](assets/commit-soundtrack.svg)](assets/commit-soundtrack.mid)
+<div align="center">
 
-[Download my MIDI soundtrack](assets/commit-soundtrack.mid)
+![My GitHub Space Shooter](game.gif)
 
-<sub>Generated from my last 64 days of GitHub activity · Updated daily with GitHub Actions</sub>
+</div>
 
 ```
 
