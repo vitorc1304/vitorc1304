@@ -32,7 +32,6 @@ I'm studying Information Systems at Mackenzie and exploring the parts of technol
 
 - Getting more hands-on with programming and networks
 - Exploring practical applications of AI and cybersecurity
-- Working on a college project and learning along the way
 
 ### `> tech_stack --learning`
 
