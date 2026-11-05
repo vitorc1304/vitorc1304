@@ -23,7 +23,6 @@ name: Vitor Carneiro Araújo
 location: São Paulo, Brazil
 education: Information Systems @ Mackenzie
 focus: [Artificial Intelligence, Cybersecurity, Software Development]
-currently: Learning by building, experimenting, and asking questions
 ```
 
 I'm studying Information Systems at Mackenzie and exploring the parts of technology that spark my curiosity most: how software is built, how systems connect, and how to make them more secure.
