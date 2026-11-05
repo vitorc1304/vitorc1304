@@ -9,7 +9,7 @@
 
 *Exploring technology, one bug at a time.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/vitor-carneiro-ara%C3%BAjo-b8414a1ba/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vitorc1304)
 
 </div>
