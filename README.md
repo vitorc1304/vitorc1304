@@ -73,8 +73,6 @@ Currently studying **Information Systems at Mackenzie University**, while expand
 
 </div>
 
-```
-
 ---
 
 <div align="center">
