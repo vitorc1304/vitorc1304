@@ -5,7 +5,7 @@
 
 ### `Developer in progress...`
 
-**Information Systems Student | AI & Cybersecurity Enthusiast**
+**Information Systems Student**
 
 *Exploring technology, one bug at a time.*
 
