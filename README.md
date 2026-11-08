@@ -54,18 +54,6 @@ I'm studying Information Systems at Mackenzie and exploring the parts of technol
 
 </div>
 
-
-
-### `> space_shooter --start`
-
-<div align="center">
-
-![My GitHub Space Shooter](game.gif)
-
-</div>
-
----
-
 <div align="center">
 
 *"I pray for stronger legs, not easier roads."*
