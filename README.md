@@ -44,16 +44,6 @@ I'm studying Information Systems at Mackenzie and exploring the parts of technol
 
 </div>
 
-### `> github_stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=vitorc1304&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitorc1304&layout=compact&theme=tokyonight)
-
-</div>
-
 <div align="center">
 
 *"I pray for stronger legs, not easier roads."*
